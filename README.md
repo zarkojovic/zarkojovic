@@ -1,4 +1,4 @@
-# Welcome to [Your Name]'s GitHub!
+# Welcome to Zarko Jovic's GitHub!
 
 ## About Me
 I am a versatile software engineer with a strong background in web applications. My coding journey began in 2018, and I've evolved from web design and freelancing to handling complex application development.
