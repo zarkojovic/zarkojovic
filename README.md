@@ -24,8 +24,6 @@ I am committed to delivering impactful solutions and contributing to dynamic sof
 ## Let's Connect
 Feel free to explore my projects and reach out for collaboration. Let's create something amazing together! 🚀
 
-- 📫 How to reach me **zarkojovic1302@gmail.com**
-<a href="https://linkedin.com/in/zarko-jovic-software-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zarko-jovic-software-engineer" height="30" width="40" /></a>
-<a href="https://instagram.com/jovic_zarko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jovic_zarko" height="30" width="40" /></a>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zarkojovic&show_icons=true&locale=en&layout=compact" alt="zarkojovic" /></p>
+- 📫 Email: **zarkojovic1302@gmail.com**
+- 📫 LinkedIn: <a href="https://linkedin.com/in/zarko-jovic-software-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zarko-jovic-software-engineer" height="30" width="40" /></a>
+- 📫 Instagram: <a href="https://instagram.com/jovic_zarko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jovic_zarko" height="30" width="40" /></a>
