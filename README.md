@@ -25,5 +25,5 @@ I am committed to delivering impactful solutions and contributing to dynamic sof
 Feel free to explore my projects and reach out for collaboration. Let's create something amazing together! 🚀
 
 - 📫 Email: **zarkojovic1302@gmail.com**
-- 📫 LinkedIn: <a href="https://linkedin.com/in/zarko-jovic-software-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zarko-jovic-software-engineer" height="30" width="40" /></a>
-- 📫 Instagram: <a href="https://instagram.com/jovic_zarko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jovic_zarko" height="30" width="40" /></a>
+- 📫 LinkedIn: <a href="https://linkedin.com/in/zarko-jovic-software-engineer" target="blank">LinkedIn</a>
+- 📫 Instagram: <a href="https://instagram.com/jovic_zarko" target="blank">Instagram</a>
